@@ -1,4 +1,7 @@
-# Sol Client
+# 1 Client a fork of Sol client
+
+
+The rest is information about Sol Client
 
 
 <a href="https://github.com/Sol-Client/Client/actions/workflows/build.yml"><img src="https://img.shields.io/github/workflow/status/Sol-Client/Client/build?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
